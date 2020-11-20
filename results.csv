@@ -1,0 +1,4 @@
+,dataset,isClassification,k,method,accuracy,precision,recall,RMSE
+0,segmentation,True,3,KNN,0.7924528298733663,0.7924528290850836,0.38888888909465025,0
+1,segmentation,True,3,E-NN,0.7924528298733663,0.7924528290850836,0.38888888909465025,0
+2,forestfires,False,3,KNN,0.0,0.0,0.0,101.58865020939847
