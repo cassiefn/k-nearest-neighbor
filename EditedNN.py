@@ -1,5 +1,5 @@
 """
-@author: cassiefn
+@author: cnoble
 """
 
 from Knn import Knn
